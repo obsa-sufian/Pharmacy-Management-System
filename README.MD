@@ -63,3 +63,10 @@ Password: admin123
  Business intelligence with sales trends & analytics
 
  Integration with Hospital Management Systems (HMS)
+
+#CONTRIBUTOR /Group MEMBERS
+# 1. UMAR JEMAL DDU16OO730
+# 2. OBSA SUFIAN DDU1600605
+# 3. MATHEOS MILLION DDU1600495
+# 4. NANET BUZAYO RMD1963
+# 5. LALISE ABERA RMD1506
